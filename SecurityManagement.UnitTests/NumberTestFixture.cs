@@ -16,7 +16,13 @@ namespace Kristof.Kata.SecurityManagement.UnitTests
         }
 
         [Test]
-        public void Method_Condition_ShouldExpected()
+        public void no_exception_is_thrown()
+        {
+            Assert.That(caught, Is.Null);
+        }
+
+        [Test]
+        public void the_result_is_fifteen()
         {
             Assert.That(((NumberAddedEvent) PendingChanges.Single()).NewValue, Is.EqualTo(15));
         }
