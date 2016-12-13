@@ -1,0 +1,5 @@
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\UnitTesting\bin\Debug\SecurityManagement.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\UnitTesting\bin\Debug\SecurityManagement.pdb
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\UnitTesting\obj\Debug\SecurityManagement.csprojResolveAssemblyReference.cache
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\UnitTesting\obj\Debug\SecurityManagement.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\UnitTesting\obj\Debug\SecurityManagement.pdb

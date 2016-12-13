@@ -1,0 +1,13 @@
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\SecurityManagement.UnitTests.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\SecurityManagement.UnitTests.pdb
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\SecurityManagement.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\SecurityManagement.pdb
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\obj\Debug\SecurityManagement.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\obj\Debug\SecurityManagement.UnitTests.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\obj\Debug\SecurityManagement.UnitTests.pdb
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\Moq.dll
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\krisdelo\Documents\Visual Studio 2015\Projects\Kata\UnitTesting\SecurityManagement.UnitTests\bin\Debug\Moq.xml
