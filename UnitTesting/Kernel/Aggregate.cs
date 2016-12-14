@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Kristof.Kata.SecurityManagement
+namespace Kristof.Kata.SecurityManagement.Kernel
 {
     public abstract class Aggregate
     {
@@ -27,9 +27,5 @@ namespace Kristof.Kata.SecurityManagement
         {
             return _events;
         }
-    }
-
-    public class Event
-    {
     }
 }

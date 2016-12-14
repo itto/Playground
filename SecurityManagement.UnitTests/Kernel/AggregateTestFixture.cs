@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using Kristof.Kata.SecurityManagement.Kernel;
 using NUnit.Framework;
 
-namespace Kristof.Kata.SecurityManagement.UnitTests
+namespace Kristof.Kata.SecurityManagement.UnitTests.Kernel
 {
     [TestFixture]
     public abstract class AggregateTestFixture<T> where T : Aggregate
@@ -12,21 +13,21 @@ namespace Kristof.Kata.SecurityManagement.UnitTests
         {
             try
             {
-                caught = null;
+                Caught = null;
                 SystemUnderTest = Given();
                 When();
                 PendingChanges = new List<Event>(SystemUnderTest.GetPendingChanges());
             }
             catch (Exception ex)
             {
-                caught = ex;
+                Caught = ex;
                 throw;
             }
         }
 
         protected T SystemUnderTest;
 
-        protected Exception caught;
+        protected Exception Caught;
 
         protected abstract void When();
 

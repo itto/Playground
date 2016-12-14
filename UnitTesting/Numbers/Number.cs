@@ -1,4 +1,6 @@
-﻿namespace Kristof.Kata.SecurityManagement
+﻿using Kristof.Kata.SecurityManagement.Kernel;
+
+namespace Kristof.Kata.SecurityManagement.Numbers
 {
     public class Number : Aggregate
     {
@@ -12,7 +14,7 @@
         public void Add(Number number)
         {
             _value += number._value;
-            AddEvent(new NumberAddedEvent(_value));
+            AddEvent(new NumberAddedEvent(Id, _value));
         }
     }
 }

@@ -52,14 +52,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AggregateTestFixture.cs" />
-    <Compile Include="NumberTestFixture.cs" />
+    <Compile Include="AddNumberCommandHandler.cs" />
+    <Compile Include="AddNumberCommandTest.cs" />
+    <Compile Include="Kernel\AggregateTestFixture.cs" />
+    <Compile Include="Kernel\EventSpecification.cs" />
+    <Compile Include="Kernel\FakeEventStore.cs" />
+    <Compile Include="Kernel\TestFormatter.cs" />
+    <Compile Include="when_adding_five_to_ten.cs" />
     <Compile Include="PasswordVerifierTestFixture.cs" />
     <Compile Include="PersonBuilder.cs" />
     <Compile Include="PersonTestFixture.cs" />
     <Compile Include="ProbabilityTestFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecurityControllerBuilder.cs" />
     <Compile Include="SecurityControllerTestFixture.cs" />
+    <Compile Include="zxvzxcv.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

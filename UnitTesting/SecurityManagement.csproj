@@ -40,9 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aggregate.cs" />
-    <Compile Include="Number.cs" />
-    <Compile Include="NumberAddedEvent.cs" />
+    <Compile Include="Kernel\Event.cs" />
+    <Compile Include="Kernel\ICommand.cs" />
+    <Compile Include="Kernel\IEvent.cs" />
+    <Compile Include="Numbers\AddNumberCommand.cs" />
+    <Compile Include="Kernel\Aggregate.cs" />
+    <Compile Include="Kernel\ICommandHandler.cs" />
+    <Compile Include="Numbers\Number.cs" />
+    <Compile Include="Numbers\NumberAddedEvent.cs" />
     <Compile Include="PasswordConditions\IPasswordCondition.cs" />
     <Compile Include="PasswordConditions\LongEnoughPasswordCondition.cs" />
     <Compile Include="PasswordConditions\LowerCasePasswordCondition.cs" />
